@@ -1,4 +1,4 @@
-### Hi there https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif
+### Hi there
 
 <!--
 **guidolingip1/guidolingip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
