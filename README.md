@@ -10,6 +10,7 @@ Como se conectar comigo:
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)\
+![Node](https://img.shields.io/badge/-Nodejs-white?style=flat-round&logo=Node.js)\
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)\
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)\
 ![React](https://img.shields.io/badge/-react-white?style=flat-square&logo=react)\
