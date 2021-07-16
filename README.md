@@ -17,7 +17,7 @@ Como se conectar comigo:
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/mysql.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/python.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/java.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/cpp.png" width="50">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/cpp2.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/git.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="50">
 <p>
