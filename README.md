@@ -21,6 +21,6 @@ Como se conectar comigo:
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/git.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="50">
 <div>
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&theme=radical)\
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&theme=radical)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&show_icons=true&theme=radical)
 
