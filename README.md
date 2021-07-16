@@ -8,7 +8,7 @@ Como se conectar comigo:
 [![Stackoverflow Badge](https://img.shields.io/badge/-guidolingip1-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/225645/guilherme-guidolin)](https://stackoverflow.com/users/13199540/guilherme-guidolin)
 
 ## ⚡ Technologies
-<p display="flex">
+<p display="flex" justify-content="space-between">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/Javascript.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/html5.png" width="50">
