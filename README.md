@@ -17,10 +17,13 @@ Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando 
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="50">
 </div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&show_icons=true&theme=vue)
-
+<div float="left">
+  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&theme=vue)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&show_icons=true&theme=vue)
+  
+<div float="left">
+  
 ## ❤️ Let's get connected:
 <div float="left">
   
