@@ -1,7 +1,8 @@
 ## Welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando Ciência da Computação na [Universidade Federal de Santa Maria](https://www.ufsm.br). Adoro aprender sobre novas tecnologias e trabalhar com projetos.
-Como se conectar comigo:
+
+## ❤️ Let's get connected:
 
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermeguidolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-guidolin/)](https://www.linkedin.com/in/guilherme-guidolin/)\
 [![Gmail Badge](https://img.shields.io/badge/-guidolingip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:guidolingip1@gmail.com)\
