@@ -22,7 +22,7 @@ Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&show_icons=true&theme=radical)
 
 ## ❤️ Let's get connected:
-<div float="left">
+<div display="flex" flex-direction="row" justify-content="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-guilhermeguidolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-guidolin/)](https://www.linkedin.com/in/guilherme-guidolin/)\
   [![Gmail Badge](https://img.shields.io/badge/-guidolingip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:guidolingip1@gmail.com)\
