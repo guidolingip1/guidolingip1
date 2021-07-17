@@ -9,6 +9,7 @@ Como se conectar comigo:
 
 <div align="center">
   ## ⚡ Technologies
+  
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/Javascript.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/html5.png" width="50">
