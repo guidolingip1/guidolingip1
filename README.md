@@ -7,8 +7,8 @@ Como se conectar comigo:
 [![Gmail Badge](https://img.shields.io/badge/-guidolingip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:guidolingip1@gmail.com)\
 [![Stackoverflow Badge](https://img.shields.io/badge/-guidolingip1-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/225645/guilherme-guidolin)](https://stackoverflow.com/users/13199540/guilherme-guidolin)
 
-  ## ⚡ Technologies
-<div align="center">
+  ## 🛠️ Technologies
+<div float="left">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/Javascript.png" width="50">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/html5.png" width="50">
