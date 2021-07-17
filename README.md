@@ -2,12 +2,6 @@
 
 Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando Ciência da Computação na [Universidade Federal de Santa Maria](https://www.ufsm.br). Adoro aprender sobre novas tecnologias e trabalhar com projetos.
 
-## ❤️ Let's get connected:
-
-[![Linkedin Badge](https://img.shields.io/badge/-guilhermeguidolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-guidolin/)](https://www.linkedin.com/in/guilherme-guidolin/)\
-[![Gmail Badge](https://img.shields.io/badge/-guidolingip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:guidolingip1@gmail.com)\
-[![Stackoverflow Badge](https://img.shields.io/badge/-guidolingip1-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/225645/guilherme-guidolin)](https://stackoverflow.com/users/13199540/guilherme-guidolin)
-
   ## 🛠️ Technologies
 <div float="left">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="50">
@@ -26,3 +20,11 @@ Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&show_icons=true&theme=radical)
+
+## ❤️ Let's get connected:
+<div float="left">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-guilhermeguidolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-guidolin/)](https://www.linkedin.com/in/guilherme-guidolin/)\
+  [![Gmail Badge](https://img.shields.io/badge/-guidolingip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:guidolingip1@gmail.com)\
+  [![Stackoverflow Badge](https://img.shields.io/badge/-guidolingip1-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/225645/guilherme-guidolin)](https://stackoverflow.com/users/13199540/guilherme-guidolin)
+  </div>
