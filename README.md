@@ -1,6 +1,6 @@
 ## Welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando Ciência da Computação na [Universidade Federal de Santa Maria](https://www.ufsm.br). Adoro aprender sobre novas tecnologias e trabalhar com projetos.
+Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando Ciência da Computação na [Universidade Federal de Santa Maria](https://www.ufsm.br)
 
   ## 🛠️ Technologies
 <div float="left">
