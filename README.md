@@ -1,6 +1,7 @@
 ## Welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Me chamo Guilherme Guidolin, mais conhecido como Gui, Atualmente estou cursando Ciência da Computação na [Universidade Federal de Santa Maria](https://www.ufsm.br)
+Meu Portfólio -> https://guidolingip1.github.io/portfolio/
 
   ## 🛠️ Technologies
 <div float="left">
