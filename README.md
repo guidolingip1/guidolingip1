@@ -1,6 +1,6 @@
 <h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://guidolingip1.github.io/portfolio/">Guilherme Guidolin</a></h2>
 
-Atualmente estou cursando Ciência da Computação na [Universidade Federal de Santa Maria](https://www.ufsm.br)
+I am a CS undegraduate student, i currently attend at [Federal University of Santa Maria](https://www.ufsm.br)
 <br>
 Meu Portfólio -> https://guidolingip1.github.io/portfolio/
 
