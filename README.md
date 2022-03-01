@@ -1,9 +1,10 @@
 <h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://guidolingip1.github.io/portfolio/">Guilherme Guidolin</a></h2>
 
 <img align="right" src="https://github.com/guidolingip1/guidolingip1/blob/main/ufsm.png" width="450"/>
-I am a CS undegraduate student, i currently attend at <a href="https://www.ufsm.br">Federal University of Santa Maria</a>
+I am a CS undegraduate student, i currently attend at <a href="https://www.ufsm.br">Federal University of Santa Maria</a>.
 <br>
-Meu Portfólio -> https://guidolingip1.github.io/portfolio/
+<br>
+If you want to know more about me feel free to visit my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>
 
   ## 🛠️ Technologies
 <div float="left">
