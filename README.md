@@ -1,4 +1,4 @@
-## Hey i'm Guilherme Guidolin<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h2>Hey 👋, I'm <a href="https://guidolingip1.github.io/portfolio/">Guilherme Guidolin</a></h2>
 
 Atualmente estou cursando Ciência da Computação na [Universidade Federal de Santa Maria](https://www.ufsm.br)
 <br>
