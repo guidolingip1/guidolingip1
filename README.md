@@ -21,13 +21,6 @@ Meu Portfólio -> https://guidolingip1.github.io/portfolio/
 
 <br/>
 
-<div float="left">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&show_icons=true&theme=vue)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&theme=vue)
-  
-<div float="left">
-  
 ## ❤️ Let's get connected:
 <div float="left">
   
