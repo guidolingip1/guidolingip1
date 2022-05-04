@@ -24,6 +24,3 @@
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/git.png" width="35">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="35">
 </div>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&hide_border=true" alt="guidolingip&#39;s github stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&layout=compact&langs_count=8"/></p>
