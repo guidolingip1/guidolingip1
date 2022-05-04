@@ -9,7 +9,7 @@
 </blockquote>
 <hr>
 <p>If you want to know me better, you check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>.</p>
-<img alt="screenshot" src="https://github.com/guidolingip1/guidolingip1/blob/main/portfolio.png?raw=true" />
+<img alt="screenshot" src="https://github.com/guidolingip1/guidolingip1/blob/main/portfolio.png?raw=true" width="300"/>
 
 
   ## 🛠️ Skills
@@ -26,7 +26,7 @@
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="35">
 </div>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&hide_border=true" alt="Riderman&#39;s github stats">
+<p><img src="https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&hide_border=true" alt="guidolingip&#39;s github stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&layout=compact&langs_count=8"/></p>
 
 
