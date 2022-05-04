@@ -1,4 +1,3 @@
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=ridermansb.ridermansb" alt=""> <a href="http://commitizen.github.io/cz-cli/"><img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a></p>
 <h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://guidolingip1.github.io/portfolio/">Guilherme Guidolin</a></h2>
 <p><em>CS student at <a href="https://www.ufsm.br/">Federal University of Santa Maria</a></br>
 </em></p>
@@ -28,11 +27,3 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&hide_border=true" alt="guidolingip&#39;s github stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&layout=compact&langs_count=8"/></p>
-
-
-## ❤️ Let's get connected:
-<div float="left">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-guilhermeguidolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-guidolin/)](https://www.linkedin.com/in/guilherme-guidolin/)\
-  [![Gmail Badge](https://img.shields.io/badge/-guidolingip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:guidolingip1@gmail.com)   
-</div>
