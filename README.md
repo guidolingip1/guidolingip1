@@ -11,16 +11,6 @@
 <p>If you want to know me better, you check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>.</p>
 <img alt="screenshot" src="https://github.com/guidolingip1/guidolingip1/blob/main/portfolio.png?raw=true" />
 
-<p><strong>Skills:</strong>  </p>
-<p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&hide_border=true" alt="Riderman&#39;s github stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&layout=compact&langs_count=8"/></p>
-
 
   ## 🛠️ Technologies
 <div float="left">
@@ -36,7 +26,10 @@
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="50">
 </div>
 
-<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&hide_border=true" alt="Riderman&#39;s github stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&layout=compact&langs_count=8"/></p>
+
 
 ## ❤️ Let's get connected:
 <div float="left">
