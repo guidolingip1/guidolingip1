@@ -8,7 +8,9 @@
 </blockquote>
 <hr>
 <p>If you want to know me better, you can check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>.</p>
-<img alt="screenshot" src="https://github.com/guidolingip1/guidolingip1/blob/main/portfolio.png?raw=true" width="600"/>
+
+---
+💼 **Portfolio**
 
 
   ## 🛠️ Skills
