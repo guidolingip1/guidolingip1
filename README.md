@@ -12,21 +12,20 @@
 <img alt="screenshot" src="https://github.com/guidolingip1/guidolingip1/blob/main/portfolio.png?raw=true" />
 
 
-  ## 🛠️ Technologies
+  ## 🛠️ Skills
 <div float="left">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/Javascript.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/html5.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/css3.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/adobexd.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/node.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/mysql.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/python.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/git.png" width="50">
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="50">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/Javascript.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/html5.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/css3.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/adobexd.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/node.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/mysql.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/python.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/git.png" width="35">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/github.png" width="35">
 </div>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=guidolingip1&show_icons=true&hide_border=true" alt="Riderman&#39;s github stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidolingip1&layout=compact&langs_count=8"/></p>
 
