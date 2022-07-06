@@ -12,7 +12,7 @@
 </br>
 💼 If you want to know me better, you can check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>
 <div>
-  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/programmer.gif">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/programmer.gif" height="350">
 <div/>
   
   ## 🛠️ Skills
