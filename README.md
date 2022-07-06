@@ -11,9 +11,10 @@
 ---
 </br>
 💼 If you want to know me better, you can check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>
-</br>
+<div>
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/programmer.gif">
-</br>
+<div/>
+  
   ## 🛠️ Skills
 <div float="left">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="35">
