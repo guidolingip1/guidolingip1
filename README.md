@@ -4,7 +4,7 @@
 
 
 <blockquote>
-<p></p>
+<p>If you're gonna half ass something, you're gonna half ass it twice. -my father</p>
 </blockquote>
 
 ---
