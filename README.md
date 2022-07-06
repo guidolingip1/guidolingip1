@@ -5,10 +5,11 @@
 
 
 <blockquote>
-<em>If you're gonna half ass something, you're gonna half ass it twice. -my father</em>
+<em>If you're gonna half ass something, you're gonna half ass it twice. **-my father**</em>
 </blockquote>
 
 ---
+</br>
 💼 If you want to know me better, you can check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>
 </br>
 💌 <guidolingip1@gmail.com>
