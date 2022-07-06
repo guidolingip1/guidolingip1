@@ -1,5 +1,5 @@
 <h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm <a href="https://guidolingip1.github.io/portfolio/">Guilherme Guidolin</a></h2>
-<p><em>CS student at <a href="https://www.ufsm.br/">Federal University of Santa Maria</a></br>
+<p><em>Computer Science student at <a href="https://www.ufsm.br/">Federal University of Santa Maria</a>, I'm passionate about teaching and helping others, currently i spend my time studying CS stuff and Fullstack development.CS student</br>
 </em></p>
 
 
