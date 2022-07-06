@@ -8,7 +8,7 @@
 </blockquote>
 
 ---
-💼 If you want to know me better, you can check my <a href="#">Portfolio (removed, i'm updating my portfolio)</a>
+💼 If you want to know me better, you can check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>
 </br>
 💌 <guidolingip1@gmail.com>
 </br>
