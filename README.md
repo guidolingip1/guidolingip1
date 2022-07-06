@@ -9,12 +9,14 @@
 </blockquote>
 
 ---
-</br>
-💼 If you want to know me better, you can check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>
+
 <div>
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/programmer.gif" height="350">
 <div/>
-  
+<div>
+💼 If you want to know me better, you can check my <a href="https://guidolingip1.github.io/portfolio/">Portfolio</a>
+<div/>
+
   ## 🛠️ Skills
 <div float="left">
   <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/react.png" width="35">
